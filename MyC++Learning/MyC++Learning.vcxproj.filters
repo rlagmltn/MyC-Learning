@@ -16,27 +16,34 @@
     <Filter Include="소스 파일\04. loop">
       <UniqueIdentifier>{0d1acea7-dd85-4313-96fe-52d3dcb6e128}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\06. string">
+      <UniqueIdentifier>{78ea8420-f02b-4799-a8ca-a7264072df4e}</UniqueIdentifier>
+    </Filter>
     <Filter Include="소스 파일\05. function">
       <UniqueIdentifier>{6ce9a2ff-c942-48ed-a523-b55a215b0165}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="12_15 BaekJun4344.cpp">
+    <ClCompile Include="12_15 BaekJoon4344.cpp">
       <Filter>소스 파일\04. loop</Filter>
     </ClCompile>
-    <ClCompile Include="12_15 BaekJun15596.cpp">
+    <ClCompile Include="12_15 BaekJoon15596.cpp">
       <Filter>소스 파일\05. function</Filter>
     </ClCompile>
-    <ClCompile Include="12_15 BaekJun4673.cpp">
+    <ClCompile Include="12_15 BaekJoon4673.cpp">
       <Filter>소스 파일\05. function</Filter>
     </ClCompile>
-    <ClCompile Include="12_15 BaekJun1065.cpp">
+    <ClCompile Include="12_15 BaekJoon1065.cpp">
       <Filter>소스 파일\05. function</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="12_15 BaekJun1065.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
+    <ClCompile Include="12_15 BaekJoon11654.cpp">
+      <Filter>소스 파일\06. string</Filter>
+    </ClCompile>
+    <ClCompile Include="12_15 BaekJoon11720.cpp">
+      <Filter>소스 파일\06. string</Filter>
+    </ClCompile>
+    <ClCompile Include="12_15 Baekjoon10809.cpp">
+      <Filter>소스 파일\06. string</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
