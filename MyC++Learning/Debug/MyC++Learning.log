@@ -1,3 +1,4 @@
-﻿  12_15 Baekjoon10809.cpp
-C:\Users\USER\Documents\MyC-Learning\MyC++Learning\12_15 Baekjoon10809.cpp(12,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  MyC++Learning.vcxproj -> C:\Users\USER\Documents\MyC-Learning\MyC++Learning\Debug\MyC++Learning.exe
+﻿  12_20 BaekJoon12869.cpp
+C:\Users\USER\Documents\MyC-Learning\MyC++Learning\12_20 BaekJoon12869.cpp(28,55): error C2059: 구문 오류: ';'
+  12_20 BaekJoon1890.cpp
+  코드를 생성하고 있습니다...

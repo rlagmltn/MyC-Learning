@@ -22,6 +22,12 @@
     <Filter Include="소스 파일\05. function">
       <UniqueIdentifier>{6ce9a2ff-c942-48ed-a523-b55a215b0165}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Baekjoon">
+      <UniqueIdentifier>{b666650b-210b-445f-b73c-472a10a31ca0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Baekjoon\DP">
+      <UniqueIdentifier>{562fba7d-cd04-4439-999f-dfaf234060dc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12_15 BaekJoon4344.cpp">
@@ -47,6 +53,18 @@
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon2675.cpp">
       <Filter>소스 파일\06. string</Filter>
+    </ClCompile>
+    <ClCompile Include="12_19 BaekJoon14501.cpp">
+      <Filter>소스 파일\Baekjoon\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="12_19 BaekJoon18353.cpp">
+      <Filter>소스 파일\Baekjoon\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="12_20 BaekJoon1890.cpp">
+      <Filter>소스 파일\Baekjoon\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="12_20 BaekJoon12869.cpp">
+      <Filter>소스 파일\Baekjoon\DP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
