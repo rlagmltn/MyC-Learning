@@ -151,6 +151,7 @@
     <ClCompile Include="12_19 BaekJoon18353.cpp" />
     <ClCompile Include="12_20 BaekJoon12869.cpp" />
     <ClCompile Include="12_20 BaekJoon1890.cpp" />
+    <ClCompile Include="12_21 BaekJoon1157.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

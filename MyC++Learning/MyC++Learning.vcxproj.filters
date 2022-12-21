@@ -66,5 +66,8 @@
     <ClCompile Include="12_20 BaekJoon12869.cpp">
       <Filter>소스 파일\Baekjoon\DP</Filter>
     </ClCompile>
+    <ClCompile Include="12_21 BaekJoon1157.cpp">
+      <Filter>소스 파일\06. string</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
