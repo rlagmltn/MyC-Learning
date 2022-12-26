@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Baekjoon\DP">
       <UniqueIdentifier>{562fba7d-cd04-4439-999f-dfaf234060dc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\OverClass">
+      <UniqueIdentifier>{c5bf8f8d-f6c7-4c14-bafb-a1ffcf88e7de}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12_15 BaekJoon4344.cpp">
@@ -68,6 +71,9 @@
     </ClCompile>
     <ClCompile Include="12_21 BaekJoon1157.cpp">
       <Filter>소스 파일\06. string</Filter>
+    </ClCompile>
+    <ClCompile Include="OCKimhuisu.cpp">
+      <Filter>소스 파일\OverClass</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
