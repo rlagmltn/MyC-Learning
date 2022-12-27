@@ -10,6 +10,7 @@
 //
 //void solve(int x, int y, int c)
 //{
+//	visited[x][y] = true;
 //	if (c == n) return;
 //	for (int i = 0; i < 4; i++)
 //	{
@@ -33,7 +34,8 @@
 //		cin >> x >> y;
 //		xy.push_back({ x, y });
 //	}
-//	n == 1 ? n++ : n--;
+//	//n == 1 ? n : n--;
+//	n--;
 //	for (auto g : xy)
 //	{
 //		solve(g.first, g.second, 0);
@@ -42,11 +44,11 @@
 //	{
 //		for (int j = 1; j <= m; j++)
 //		{
-//			//cout << visited[i][j] << " ";
+//			cout << visited[i][j] << " ";
 //			if (visited[i][j])
 //				cnt++;
 //		}
-//		//cout << "\n";
+//		cout << "\n";
 //	}
 //	cout << cnt;
 //}

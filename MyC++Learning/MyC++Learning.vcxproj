@@ -158,7 +158,7 @@
     <ClCompile Include="OCI.cpp" />
     <ClCompile Include="OCKimhuisu.cpp" />
     <ClCompile Include="OCM.cpp" />
-    <ClCompile Include="OCN.cpp" />
+    <ClCompile Include="OCJ.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

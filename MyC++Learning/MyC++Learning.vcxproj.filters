@@ -81,7 +81,7 @@
     <ClCompile Include="OCF.cpp">
       <Filter>소스 파일\OverClass</Filter>
     </ClCompile>
-    <ClCompile Include="OCN.cpp">
+    <ClCompile Include="OCJ.cpp">
       <Filter>소스 파일\OverClass</Filter>
     </ClCompile>
     <ClCompile Include="OCI.cpp">
