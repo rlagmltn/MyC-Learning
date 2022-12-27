@@ -75,5 +75,23 @@
     <ClCompile Include="OCKimhuisu.cpp">
       <Filter>소스 파일\OverClass</Filter>
     </ClCompile>
+    <ClCompile Include="OCA.cpp">
+      <Filter>소스 파일\OverClass</Filter>
+    </ClCompile>
+    <ClCompile Include="OCF.cpp">
+      <Filter>소스 파일\OverClass</Filter>
+    </ClCompile>
+    <ClCompile Include="OCN.cpp">
+      <Filter>소스 파일\OverClass</Filter>
+    </ClCompile>
+    <ClCompile Include="OCI.cpp">
+      <Filter>소스 파일\OverClass</Filter>
+    </ClCompile>
+    <ClCompile Include="OCM.cpp">
+      <Filter>소스 파일\OverClass</Filter>
+    </ClCompile>
+    <ClCompile Include="OCG.cpp">
+      <Filter>소스 파일\OverClass</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
