@@ -93,5 +93,17 @@
     <ClCompile Include="OCG.cpp">
       <Filter>소스 파일\OverClass</Filter>
     </ClCompile>
+    <ClCompile Include="12_28 BaekJoon1152.cpp">
+      <Filter>소스 파일\06. string</Filter>
+    </ClCompile>
+    <ClCompile Include="12_28 BaekJoon2908.cpp">
+      <Filter>소스 파일\06. string</Filter>
+    </ClCompile>
+    <ClCompile Include="12_28 BaekJoon5622.cpp">
+      <Filter>소스 파일\06. string</Filter>
+    </ClCompile>
+    <ClCompile Include="12_28 BaekJoon2914.cpp">
+      <Filter>소스 파일\06. string</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

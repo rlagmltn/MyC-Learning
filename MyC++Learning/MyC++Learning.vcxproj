@@ -152,6 +152,10 @@
     <ClCompile Include="12_20 BaekJoon12869.cpp" />
     <ClCompile Include="12_20 BaekJoon1890.cpp" />
     <ClCompile Include="12_21 BaekJoon1157.cpp" />
+    <ClCompile Include="12_28 BaekJoon1152.cpp" />
+    <ClCompile Include="12_28 BaekJoon2908.cpp" />
+    <ClCompile Include="12_28 BaekJoon2914.cpp" />
+    <ClCompile Include="12_28 BaekJoon5622.cpp" />
     <ClCompile Include="OCA.cpp" />
     <ClCompile Include="OCF.cpp" />
     <ClCompile Include="OCG.cpp" />

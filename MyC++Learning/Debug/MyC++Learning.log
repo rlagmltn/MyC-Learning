@@ -1,2 +1,5 @@
-﻿  OCJ.cpp
+﻿  12_28 BaekJoon2914.cpp
+C:\Users\USER\Documents\MyC-Learning\MyC++Learning\12_28 BaekJoon2914.cpp(10,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\MyC-Learning\MyC++Learning\12_28 BaekJoon2914.cpp(12,14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\MyC-Learning\MyC++Learning\12_28 BaekJoon2914.cpp(14,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   MyC++Learning.vcxproj -> C:\Users\USER\Documents\MyC-Learning\MyC++Learning\Debug\MyC++Learning.exe

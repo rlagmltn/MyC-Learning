@@ -1,28 +1,33 @@
 //#include <iostream>
 //#include <string>
+//#include <map>
 //using namespace std;
 //
 //int main()
 //{
 //	string s;
-//	int a[26] = { 0 }, max = 0;
-//	char answer = ' ';
 //	cin >> s;
-//
+//	map<char, int> m;
+//	int max = 0;
+//	char ans = '?';
 //	for (int i = 0; i < s.size(); i++)
 //	{
-//		if (s[i] > 'a') a[s[i] + 'a' - 26];
-//		else a[s[i] + 'A'];
+//		char t = s[i];
+//		if (t >= 'a') t -= (' ');
+//		m[t]++;
 //	}
-//	for (int i = 0; i < 26; i++)
+//	for (auto p : m)
 //	{
-//		if (a[i] == max)
-//			answer = '?';
-//		else if (a[i] > max)
+//		if (p.second == max)
 //		{
-//			max = a[i];
-//			answer = i + 'A';
+//			max = p.second;
+//			ans = '?';
+//		}
+//		else if (p.second > max)
+//		{
+//			max = p.second;
+//			ans = p.first;
 //		}
 //	}
-//	cout << answer;
+//	cout << ans;
 //}
