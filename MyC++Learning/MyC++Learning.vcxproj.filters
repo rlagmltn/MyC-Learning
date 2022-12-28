@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\OverClass">
       <UniqueIdentifier>{c5bf8f8d-f6c7-4c14-bafb-a1ffcf88e7de}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\07. BaseMath">
+      <UniqueIdentifier>{f28a5055-f70f-4440-8256-c7dec34fe1a7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12_15 BaekJoon4344.cpp">
@@ -107,6 +110,12 @@
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon1316.cpp">
       <Filter>소스 파일\06. string</Filter>
+    </ClCompile>
+    <ClCompile Include="12_28 BaekJoon1712.cpp">
+      <Filter>소스 파일\07. BaseMath</Filter>
+    </ClCompile>
+    <ClCompile Include="12_28 BaekJoon2292.cpp">
+      <Filter>소스 파일\07. BaseMath</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
