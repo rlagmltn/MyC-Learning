@@ -120,5 +120,20 @@
     <ClCompile Include="12_29 BaekJoon1193.cpp">
       <Filter>소스 파일\07. BaseMath</Filter>
     </ClCompile>
+    <ClCompile Include="12_29 BaekJoon2869.cpp">
+      <Filter>소스 파일\07. BaseMath</Filter>
+    </ClCompile>
+    <ClCompile Include="12_29 BaekJoon10250.cpp">
+      <Filter>소스 파일\07. BaseMath</Filter>
+    </ClCompile>
+    <ClCompile Include="12_29 BaekJoon2775.cpp">
+      <Filter>소스 파일\07. BaseMath</Filter>
+    </ClCompile>
+    <ClCompile Include="12_30 BaekJoon2839.cpp">
+      <Filter>소스 파일\07. BaseMath</Filter>
+    </ClCompile>
+    <ClCompile Include="12_30 BaekJoon10757.cpp">
+      <Filter>소스 파일\07. BaseMath</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
