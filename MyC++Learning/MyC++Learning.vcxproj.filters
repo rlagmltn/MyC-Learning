@@ -117,5 +117,8 @@
     <ClCompile Include="12_28 BaekJoon2292.cpp">
       <Filter>소스 파일\07. BaseMath</Filter>
     </ClCompile>
+    <ClCompile Include="12_29 BaekJoon1193.cpp">
+      <Filter>소스 파일\07. BaseMath</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
