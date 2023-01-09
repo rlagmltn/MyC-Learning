@@ -172,6 +172,7 @@
     <ClCompile Include="OCKimhuisu.cpp" />
     <ClCompile Include="OCM.cpp" />
     <ClCompile Include="OCJ.cpp" />
+    <ClCompile Include="SafeZone.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

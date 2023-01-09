@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\07. BaseMath">
       <UniqueIdentifier>{f28a5055-f70f-4440-8256-c7dec34fe1a7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Programous">
+      <UniqueIdentifier>{a875cbd6-4e14-4886-b5a1-6559d6391984}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12_15 BaekJoon4344.cpp">
@@ -134,6 +137,9 @@
     </ClCompile>
     <ClCompile Include="12_30 BaekJoon10757.cpp">
       <Filter>소스 파일\07. BaseMath</Filter>
+    </ClCompile>
+    <ClCompile Include="SafeZone.cpp">
+      <Filter>소스 파일\Programous</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
