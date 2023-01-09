@@ -13,133 +13,148 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\04. loop">
-      <UniqueIdentifier>{0d1acea7-dd85-4313-96fe-52d3dcb6e128}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\06. string">
-      <UniqueIdentifier>{78ea8420-f02b-4799-a8ca-a7264072df4e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\05. function">
-      <UniqueIdentifier>{6ce9a2ff-c942-48ed-a523-b55a215b0165}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Baekjoon">
-      <UniqueIdentifier>{b666650b-210b-445f-b73c-472a10a31ca0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Baekjoon\DP">
-      <UniqueIdentifier>{562fba7d-cd04-4439-999f-dfaf234060dc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\OverClass">
-      <UniqueIdentifier>{c5bf8f8d-f6c7-4c14-bafb-a1ffcf88e7de}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\07. BaseMath">
-      <UniqueIdentifier>{f28a5055-f70f-4440-8256-c7dec34fe1a7}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Programous">
       <UniqueIdentifier>{a875cbd6-4e14-4886-b5a1-6559d6391984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\_2022">
+      <UniqueIdentifier>{1590d104-69d5-46df-9a9c-aac6f89f7d6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\_2022\04. loop">
+      <UniqueIdentifier>{0d1acea7-dd85-4313-96fe-52d3dcb6e128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\_2022\05. function">
+      <UniqueIdentifier>{6ce9a2ff-c942-48ed-a523-b55a215b0165}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\_2022\06. string">
+      <UniqueIdentifier>{78ea8420-f02b-4799-a8ca-a7264072df4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\_2022\07. BaseMath">
+      <UniqueIdentifier>{f28a5055-f70f-4440-8256-c7dec34fe1a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\_2023">
+      <UniqueIdentifier>{1766234b-d5fe-4766-8d1a-42f338014c58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\_2023\BaseMath2">
+      <UniqueIdentifier>{32270f73-32bb-433c-a226-08f0623838cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BaekJoon">
+      <UniqueIdentifier>{b666650b-210b-445f-b73c-472a10a31ca0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BaekJoon\DP">
+      <UniqueIdentifier>{562fba7d-cd04-4439-999f-dfaf234060dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\22_OverClass">
+      <UniqueIdentifier>{c5bf8f8d-f6c7-4c14-bafb-a1ffcf88e7de}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12_15 BaekJoon4344.cpp">
-      <Filter>소스 파일\04. loop</Filter>
+      <Filter>소스 파일\_2022\04. loop</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon15596.cpp">
-      <Filter>소스 파일\05. function</Filter>
+      <Filter>소스 파일\_2022\05. function</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon4673.cpp">
-      <Filter>소스 파일\05. function</Filter>
+      <Filter>소스 파일\_2022\05. function</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon1065.cpp">
-      <Filter>소스 파일\05. function</Filter>
+      <Filter>소스 파일\_2022\05. function</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon11654.cpp">
-      <Filter>소스 파일\06. string</Filter>
+      <Filter>소스 파일\_2022\06. string</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon11720.cpp">
-      <Filter>소스 파일\06. string</Filter>
+      <Filter>소스 파일\_2022\06. string</Filter>
     </ClCompile>
     <ClCompile Include="12_15 Baekjoon10809.cpp">
-      <Filter>소스 파일\06. string</Filter>
+      <Filter>소스 파일\_2022\06. string</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon2675.cpp">
-      <Filter>소스 파일\06. string</Filter>
+      <Filter>소스 파일\_2022\06. string</Filter>
     </ClCompile>
-    <ClCompile Include="12_19 BaekJoon14501.cpp">
-      <Filter>소스 파일\Baekjoon\DP</Filter>
+    <ClCompile Include="22_12_19 BaekJoon14501.cpp">
+      <Filter>소스 파일\BaekJoon\DP</Filter>
     </ClCompile>
-    <ClCompile Include="12_19 BaekJoon18353.cpp">
-      <Filter>소스 파일\Baekjoon\DP</Filter>
+    <ClCompile Include="22_12_19 BaekJoon18353.cpp">
+      <Filter>소스 파일\BaekJoon\DP</Filter>
     </ClCompile>
-    <ClCompile Include="12_20 BaekJoon1890.cpp">
-      <Filter>소스 파일\Baekjoon\DP</Filter>
+    <ClCompile Include="22_12_20 BaekJoon1890.cpp">
+      <Filter>소스 파일\BaekJoon\DP</Filter>
     </ClCompile>
-    <ClCompile Include="12_20 BaekJoon12869.cpp">
-      <Filter>소스 파일\Baekjoon\DP</Filter>
+    <ClCompile Include="22_12_20 BaekJoon12869.cpp">
+      <Filter>소스 파일\BaekJoon\DP</Filter>
     </ClCompile>
     <ClCompile Include="12_21 BaekJoon1157.cpp">
-      <Filter>소스 파일\06. string</Filter>
+      <Filter>소스 파일\_2022\06. string</Filter>
     </ClCompile>
     <ClCompile Include="OCKimhuisu.cpp">
-      <Filter>소스 파일\OverClass</Filter>
+      <Filter>소스 파일\22_OverClass</Filter>
     </ClCompile>
     <ClCompile Include="OCA.cpp">
-      <Filter>소스 파일\OverClass</Filter>
+      <Filter>소스 파일\22_OverClass</Filter>
     </ClCompile>
     <ClCompile Include="OCF.cpp">
-      <Filter>소스 파일\OverClass</Filter>
+      <Filter>소스 파일\22_OverClass</Filter>
     </ClCompile>
     <ClCompile Include="OCJ.cpp">
-      <Filter>소스 파일\OverClass</Filter>
+      <Filter>소스 파일\22_OverClass</Filter>
     </ClCompile>
     <ClCompile Include="OCI.cpp">
-      <Filter>소스 파일\OverClass</Filter>
+      <Filter>소스 파일\22_OverClass</Filter>
     </ClCompile>
     <ClCompile Include="OCM.cpp">
-      <Filter>소스 파일\OverClass</Filter>
+      <Filter>소스 파일\22_OverClass</Filter>
     </ClCompile>
     <ClCompile Include="OCG.cpp">
-      <Filter>소스 파일\OverClass</Filter>
+      <Filter>소스 파일\22_OverClass</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon1152.cpp">
-      <Filter>소스 파일\06. string</Filter>
+      <Filter>소스 파일\_2022\06. string</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon2908.cpp">
-      <Filter>소스 파일\06. string</Filter>
+      <Filter>소스 파일\_2022\06. string</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon5622.cpp">
-      <Filter>소스 파일\06. string</Filter>
+      <Filter>소스 파일\_2022\06. string</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon2914.cpp">
-      <Filter>소스 파일\06. string</Filter>
+      <Filter>소스 파일\_2022\06. string</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon1316.cpp">
-      <Filter>소스 파일\06. string</Filter>
+      <Filter>소스 파일\_2022\06. string</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon1712.cpp">
-      <Filter>소스 파일\07. BaseMath</Filter>
+      <Filter>소스 파일\_2022\07. BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon2292.cpp">
-      <Filter>소스 파일\07. BaseMath</Filter>
+      <Filter>소스 파일\_2022\07. BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_29 BaekJoon1193.cpp">
-      <Filter>소스 파일\07. BaseMath</Filter>
+      <Filter>소스 파일\_2022\07. BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_29 BaekJoon2869.cpp">
-      <Filter>소스 파일\07. BaseMath</Filter>
+      <Filter>소스 파일\_2022\07. BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_29 BaekJoon10250.cpp">
-      <Filter>소스 파일\07. BaseMath</Filter>
+      <Filter>소스 파일\_2022\07. BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_29 BaekJoon2775.cpp">
-      <Filter>소스 파일\07. BaseMath</Filter>
+      <Filter>소스 파일\_2022\07. BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_30 BaekJoon2839.cpp">
-      <Filter>소스 파일\07. BaseMath</Filter>
+      <Filter>소스 파일\_2022\07. BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_30 BaekJoon10757.cpp">
-      <Filter>소스 파일\07. BaseMath</Filter>
+      <Filter>소스 파일\_2022\07. BaseMath</Filter>
     </ClCompile>
-    <ClCompile Include="SafeZone.cpp">
+    <ClCompile Include="22_SafeZone.cpp">
       <Filter>소스 파일\Programous</Filter>
+    </ClCompile>
+    <ClCompile Include="01_09 BaekJoon1978.cpp">
+      <Filter>소스 파일\_2023\BaseMath2</Filter>
+    </ClCompile>
+    <ClCompile Include="01_09 BaekJoon2581.cpp">
+      <Filter>소스 파일\_2023\BaseMath2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
