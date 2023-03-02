@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="01_09 BaekJoon1978.cpp" />
     <ClCompile Include="01_09 BaekJoon2581.cpp" />
+    <ClCompile Include="09_01 BaekJoon1000.cpp" />
+    <ClCompile Include="09_01 BaekJoon1001.cpp" />
+    <ClCompile Include="09_01 BaekJoon2557.cpp" />
     <ClCompile Include="12_15 Baekjoon10809.cpp" />
     <ClCompile Include="12_15 BaekJoon1065.cpp" />
     <ClCompile Include="12_15 BaekJoon11654.cpp" />
