@@ -31,58 +31,61 @@
     <Filter Include="소스 파일\StepProgramming">
       <UniqueIdentifier>{fe9d718f-302e-498e-b6e9-3bd3e7c9b806}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\StepProgramming\01. Input/Output">
-      <UniqueIdentifier>{486b9fe0-5bc1-4344-81a8-7586f7f5a6d1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\StepProgramming\02. If">
-      <UniqueIdentifier>{2efe145b-7bec-47c5-9d77-62ee0a6dcd94}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\StepProgramming\03. Loop">
-      <UniqueIdentifier>{503c581b-022c-41e5-8369-fb46b105d8bb}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\StepProgramming\04. Array">
-      <UniqueIdentifier>{0d1acea7-dd85-4313-96fe-52d3dcb6e128}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\StepProgramming\05. function">
-      <UniqueIdentifier>{6ce9a2ff-c942-48ed-a523-b55a215b0165}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\StepProgramming\06. string">
-      <UniqueIdentifier>{78ea8420-f02b-4799-a8ca-a7264072df4e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\StepProgramming\07. BaseMath">
-      <UniqueIdentifier>{f28a5055-f70f-4440-8256-c7dec34fe1a7}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\StepProgramming\22_OverClass">
       <UniqueIdentifier>{c5bf8f8d-f6c7-4c14-bafb-a1ffcf88e7de}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\StepProgramming\08. BaseMath2">
+    <Filter Include="소스 파일\StepProgramming\Input/Output">
+      <UniqueIdentifier>{486b9fe0-5bc1-4344-81a8-7586f7f5a6d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\StepProgramming\If">
+      <UniqueIdentifier>{2efe145b-7bec-47c5-9d77-62ee0a6dcd94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\StepProgramming\Loop">
+      <UniqueIdentifier>{503c581b-022c-41e5-8369-fb46b105d8bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\StepProgramming\Array">
+      <UniqueIdentifier>{0d1acea7-dd85-4313-96fe-52d3dcb6e128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\StepProgramming\String">
+      <UniqueIdentifier>{78ea8420-f02b-4799-a8ca-a7264072df4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\StepProgramming\Function">
+      <UniqueIdentifier>{6ce9a2ff-c942-48ed-a523-b55a215b0165}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\StepProgramming\BaseMath">
+      <UniqueIdentifier>{f28a5055-f70f-4440-8256-c7dec34fe1a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\StepProgramming\BaseMath2">
       <UniqueIdentifier>{32270f73-32bb-433c-a226-08f0623838cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\StepProgramming\HARD">
+      <UniqueIdentifier>{a9d82846-cd7f-46a9-bb19-a7e0083e895c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12_15 BaekJoon4344.cpp">
-      <Filter>소스 파일\StepProgramming\04. Array</Filter>
+      <Filter>소스 파일\StepProgramming\Array</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon15596.cpp">
-      <Filter>소스 파일\StepProgramming\05. function</Filter>
+      <Filter>소스 파일\StepProgramming\Function</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon4673.cpp">
-      <Filter>소스 파일\StepProgramming\05. function</Filter>
+      <Filter>소스 파일\StepProgramming\Function</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon1065.cpp">
-      <Filter>소스 파일\StepProgramming\05. function</Filter>
+      <Filter>소스 파일\StepProgramming\Function</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon11654.cpp">
-      <Filter>소스 파일\StepProgramming\06. string</Filter>
+      <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon11720.cpp">
-      <Filter>소스 파일\StepProgramming\06. string</Filter>
+      <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
     <ClCompile Include="12_15 Baekjoon10809.cpp">
-      <Filter>소스 파일\StepProgramming\06. string</Filter>
+      <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
     <ClCompile Include="12_15 BaekJoon2675.cpp">
-      <Filter>소스 파일\StepProgramming\06. string</Filter>
+      <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
     <ClCompile Include="22_12_19 BaekJoon14501.cpp">
       <Filter>소스 파일\BaekJoon\DP</Filter>
@@ -97,7 +100,7 @@
       <Filter>소스 파일\BaekJoon\DP</Filter>
     </ClCompile>
     <ClCompile Include="12_21 BaekJoon1157.cpp">
-      <Filter>소스 파일\StepProgramming\06. string</Filter>
+      <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
     <ClCompile Include="OCKimhuisu.cpp">
       <Filter>소스 파일\StepProgramming\22_OverClass</Filter>
@@ -121,178 +124,205 @@
       <Filter>소스 파일\StepProgramming\22_OverClass</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon1152.cpp">
-      <Filter>소스 파일\StepProgramming\06. string</Filter>
+      <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon2908.cpp">
-      <Filter>소스 파일\StepProgramming\06. string</Filter>
+      <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon5622.cpp">
-      <Filter>소스 파일\StepProgramming\06. string</Filter>
+      <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon2914.cpp">
-      <Filter>소스 파일\StepProgramming\06. string</Filter>
+      <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon1316.cpp">
-      <Filter>소스 파일\StepProgramming\06. string</Filter>
+      <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon1712.cpp">
-      <Filter>소스 파일\StepProgramming\07. BaseMath</Filter>
+      <Filter>소스 파일\StepProgramming\BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_28 BaekJoon2292.cpp">
-      <Filter>소스 파일\StepProgramming\07. BaseMath</Filter>
+      <Filter>소스 파일\StepProgramming\BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_29 BaekJoon1193.cpp">
-      <Filter>소스 파일\StepProgramming\07. BaseMath</Filter>
+      <Filter>소스 파일\StepProgramming\BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_29 BaekJoon2869.cpp">
-      <Filter>소스 파일\StepProgramming\07. BaseMath</Filter>
+      <Filter>소스 파일\StepProgramming\BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_29 BaekJoon10250.cpp">
-      <Filter>소스 파일\StepProgramming\07. BaseMath</Filter>
+      <Filter>소스 파일\StepProgramming\BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_29 BaekJoon2775.cpp">
-      <Filter>소스 파일\StepProgramming\07. BaseMath</Filter>
+      <Filter>소스 파일\StepProgramming\BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_30 BaekJoon2839.cpp">
-      <Filter>소스 파일\StepProgramming\07. BaseMath</Filter>
+      <Filter>소스 파일\StepProgramming\BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="12_30 BaekJoon10757.cpp">
-      <Filter>소스 파일\StepProgramming\07. BaseMath</Filter>
+      <Filter>소스 파일\StepProgramming\BaseMath</Filter>
     </ClCompile>
     <ClCompile Include="22_SafeZone.cpp">
       <Filter>소스 파일\Programous</Filter>
     </ClCompile>
     <ClCompile Include="01_09 BaekJoon1978.cpp">
-      <Filter>소스 파일\StepProgramming\08. BaseMath2</Filter>
+      <Filter>소스 파일\StepProgramming\BaseMath2</Filter>
     </ClCompile>
     <ClCompile Include="01_09 BaekJoon2581.cpp">
-      <Filter>소스 파일\StepProgramming\08. BaseMath2</Filter>
+      <Filter>소스 파일\StepProgramming\BaseMath2</Filter>
     </ClCompile>
     <ClCompile Include="09_01 BaekJoon2557.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="09_01 BaekJoon1000.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="09_01 BaekJoon10998.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="09_01 BaekJoon1001.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="09_01 BaekJoon1008.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="09_01 BaekJoon10869.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="09_01 BaekJoon10926.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="09_01 BaekJoon18018.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="09_01 BaekJoon10430.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon2588.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="23_03_02 BaekJoon11382.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon10171.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon10172.cpp">
-      <Filter>소스 파일\StepProgramming\01. Input/Output</Filter>
+      <Filter>소스 파일\StepProgramming\Input/Output</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon1330.cpp">
-      <Filter>소스 파일\StepProgramming\02. If</Filter>
+      <Filter>소스 파일\StepProgramming\If</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon9498.cpp">
-      <Filter>소스 파일\StepProgramming\02. If</Filter>
+      <Filter>소스 파일\StepProgramming\If</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon2753.cpp">
-      <Filter>소스 파일\StepProgramming\02. If</Filter>
+      <Filter>소스 파일\StepProgramming\If</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon14681.cpp">
-      <Filter>소스 파일\StepProgramming\02. If</Filter>
+      <Filter>소스 파일\StepProgramming\If</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon2884.cpp">
-      <Filter>소스 파일\StepProgramming\02. If</Filter>
+      <Filter>소스 파일\StepProgramming\If</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon2525.cpp">
-      <Filter>소스 파일\StepProgramming\02. If</Filter>
+      <Filter>소스 파일\StepProgramming\If</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon2480.cpp">
-      <Filter>소스 파일\StepProgramming\02. If</Filter>
+      <Filter>소스 파일\StepProgramming\If</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon2739.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon10950.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon8393.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon25034.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="23_03_02 BaekJoon25314.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon15552.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon11021.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon11022.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon2438.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon2439.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon10952.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="11_25 BaekJoon10951.cpp">
-      <Filter>소스 파일\StepProgramming\03. Loop</Filter>
+      <Filter>소스 파일\StepProgramming\Loop</Filter>
     </ClCompile>
     <ClCompile Include="12_07 BaekJoon10807.cpp">
-      <Filter>소스 파일\StepProgramming\04. Array</Filter>
+      <Filter>소스 파일\StepProgramming\Array</Filter>
     </ClCompile>
     <ClCompile Include="12_07 BaekJoon10871.cpp">
-      <Filter>소스 파일\StepProgramming\04. Array</Filter>
+      <Filter>소스 파일\StepProgramming\Array</Filter>
     </ClCompile>
     <ClCompile Include="12_07 BaekJoob10818.cpp">
-      <Filter>소스 파일\StepProgramming\04. Array</Filter>
+      <Filter>소스 파일\StepProgramming\Array</Filter>
     </ClCompile>
     <ClCompile Include="12_07 BaekJoon2562.cpp">
-      <Filter>소스 파일\StepProgramming\04. Array</Filter>
+      <Filter>소스 파일\StepProgramming\Array</Filter>
     </ClCompile>
     <ClCompile Include="23_03_02 BaekJoon10810.cpp">
-      <Filter>소스 파일\StepProgramming\04. Array</Filter>
+      <Filter>소스 파일\StepProgramming\Array</Filter>
     </ClCompile>
     <ClCompile Include="23_03_02 BaekJoon10813.cpp">
-      <Filter>소스 파일\StepProgramming\04. Array</Filter>
+      <Filter>소스 파일\StepProgramming\Array</Filter>
     </ClCompile>
     <ClCompile Include="12_07 BaekJoon5597.cpp">
-      <Filter>소스 파일\StepProgramming\04. Array</Filter>
+      <Filter>소스 파일\StepProgramming\Array</Filter>
     </ClCompile>
     <ClCompile Include="12_07 BaekJoon3052.cpp">
-      <Filter>소스 파일\StepProgramming\04. Array</Filter>
+      <Filter>소스 파일\StepProgramming\Array</Filter>
     </ClCompile>
     <ClCompile Include="12_07 BaekJoon1546.cpp">
-      <Filter>소스 파일\StepProgramming\04. Array</Filter>
+      <Filter>소스 파일\StepProgramming\Array</Filter>
     </ClCompile>
     <ClCompile Include="23_03_02 BaekJoon10811.cpp">
-      <Filter>소스 파일\StepProgramming\04. Array</Filter>
+      <Filter>소스 파일\StepProgramming\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_06 BaekJoon2743.cpp">
+      <Filter>소스 파일\StepProgramming\String</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_06 BaekJoon9086.cpp">
+      <Filter>소스 파일\StepProgramming\String</Filter>
+    </ClCompile>
+    <ClCompile Include="22_11_25 BaekJoon25083.cpp">
+      <Filter>소스 파일\StepProgramming\HARD</Filter>
+    </ClCompile>
+    <ClCompile Include="22_09_01 BaekJoon3003.cpp">
+      <Filter>소스 파일\StepProgramming\HARD</Filter>
+    </ClCompile>
+    <ClCompile Include="22_12_15 BaekJoon4344.cpp">
+      <Filter>소스 파일\StepProgramming\HARD</Filter>
+    </ClCompile>
+    <ClCompile Include="22_12_28 BaekJoon2941.cpp">
+      <Filter>소스 파일\StepProgramming\HARD</Filter>
+    </ClCompile>
+    <ClCompile Include="22_12_28 BaekJoon1316.cpp">
+      <Filter>소스 파일\StepProgramming\HARD</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_06 BaekJoon2444.cpp">
+      <Filter>소스 파일\StepProgramming\HARD</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_06 BaekJoon10812.cpp">
+      <Filter>소스 파일\StepProgramming\HARD</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
