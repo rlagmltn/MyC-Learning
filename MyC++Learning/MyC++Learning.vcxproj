@@ -218,6 +218,8 @@
     <ClCompile Include="23_03_06 BaekJoon2444.cpp" />
     <ClCompile Include="23_03_06 BaekJoon2743.cpp" />
     <ClCompile Include="23_03_06 BaekJoon9086.cpp" />
+    <ClCompile Include="23_03_07 BaekJoon10988.cpp" />
+    <ClCompile Include="23_03_07 BaekJoon25206.cpp" />
     <ClCompile Include="OCA.cpp" />
     <ClCompile Include="OCF.cpp" />
     <ClCompile Include="OCG.cpp" />

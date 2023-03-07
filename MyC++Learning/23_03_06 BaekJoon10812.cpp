@@ -1,33 +1,33 @@
 //#include <iostream>
-//#include <string>
+//#include <vector>
 //using namespace std;
-//string s;
+//vector<int> v;
 //
 //void Init(int m)
 //{
-//	for (int i = 0; i < m; i++)
+//	for (int i = 1; i <= m; i++)
 //	{
-//		s[i] = (char)(i + 49);
+//		v.push_back(i);
 //	}
-//}
-//void Set(string& fir, string& end, int f, int b, int len)
-//{
-//	for (int i = 0; i < f; i++) fir += s[i];
-//	for (int i = b; i < len; i++) end += s[i];
 //}
 //int main()
 //{
-//	int m, n, *a;
+//	int m, n;
 //	cin >> m >> n;
+//	Init(m);
 //	for (int i = 0; i < n; i++)
 //	{
 //		int f, b, m;
-//		string fir, end;
 //		cin >> f >> b >> m;
-//		Set(fir, end, f, b, n);
-//		for (int j = f; j < b; j++)
+//		if (f == m) continue;
+//		for (int j = f--; j < m; j++)
 //		{
-//			
+//			v.insert(v.begin() + b, v[f]);
+//			v.erase(v.begin() + f);
 //		}
+//	}
+//	for (int i = 0; i < m; i++)
+//	{
+//		cout << v[i] << " ";
 //	}
 //}

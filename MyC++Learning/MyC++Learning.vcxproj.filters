@@ -58,7 +58,7 @@
     <Filter Include="소스 파일\StepProgramming\BaseMath2">
       <UniqueIdentifier>{32270f73-32bb-433c-a226-08f0623838cc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\StepProgramming\HARD">
+    <Filter Include="소스 파일\StepProgramming\HARD 1">
       <UniqueIdentifier>{a9d82846-cd7f-46a9-bb19-a7e0083e895c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -304,25 +304,31 @@
       <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
     <ClCompile Include="22_11_25 BaekJoon25083.cpp">
-      <Filter>소스 파일\StepProgramming\HARD</Filter>
+      <Filter>소스 파일\StepProgramming\HARD 1</Filter>
     </ClCompile>
     <ClCompile Include="22_09_01 BaekJoon3003.cpp">
-      <Filter>소스 파일\StepProgramming\HARD</Filter>
+      <Filter>소스 파일\StepProgramming\HARD 1</Filter>
     </ClCompile>
     <ClCompile Include="22_12_15 BaekJoon4344.cpp">
-      <Filter>소스 파일\StepProgramming\HARD</Filter>
+      <Filter>소스 파일\StepProgramming\HARD 1</Filter>
     </ClCompile>
     <ClCompile Include="22_12_28 BaekJoon2941.cpp">
-      <Filter>소스 파일\StepProgramming\HARD</Filter>
+      <Filter>소스 파일\StepProgramming\HARD 1</Filter>
     </ClCompile>
     <ClCompile Include="22_12_28 BaekJoon1316.cpp">
-      <Filter>소스 파일\StepProgramming\HARD</Filter>
+      <Filter>소스 파일\StepProgramming\HARD 1</Filter>
     </ClCompile>
     <ClCompile Include="23_03_06 BaekJoon2444.cpp">
-      <Filter>소스 파일\StepProgramming\HARD</Filter>
+      <Filter>소스 파일\StepProgramming\HARD 1</Filter>
     </ClCompile>
     <ClCompile Include="23_03_06 BaekJoon10812.cpp">
-      <Filter>소스 파일\StepProgramming\HARD</Filter>
+      <Filter>소스 파일\StepProgramming\HARD 1</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_07 BaekJoon10988.cpp">
+      <Filter>소스 파일\StepProgramming\HARD 1</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_07 BaekJoon25206.cpp">
+      <Filter>소스 파일\StepProgramming\HARD 1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
