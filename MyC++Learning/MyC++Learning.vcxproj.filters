@@ -363,5 +363,11 @@
     <ClCompile Include="23_03_13 BaekJoon27866.cpp">
       <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
+    <ClCompile Include="23_03_13 BaekJoon11653.cpp">
+      <Filter>소스 파일\StepProgramming\AboutNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_13 BaekJoon9020.cpp">
+      <Filter>소스 파일\StepProgramming\AboutNumber</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
