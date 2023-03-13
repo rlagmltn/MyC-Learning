@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_09 BaekJoon1978.cpp" />
+    <ClCompile Include="23_01_09 BaekJoon1978.cpp" />
     <ClCompile Include="01_09 BaekJoon2581.cpp" />
     <ClCompile Include="09_01 BaekJoon1000.cpp" />
     <ClCompile Include="09_01 BaekJoon1001.cpp" />
@@ -223,7 +223,12 @@
     <ClCompile Include="23_03_07 BaekJoon25206.cpp" />
     <ClCompile Include="23_03_07 BaekJoon2563.cpp" />
     <ClCompile Include="23_03_07 BaekJoon2566.cpp" />
+    <ClCompile Include="23_03_07 BaekJoon2581.cpp" />
     <ClCompile Include="23_03_07 BaekJoon2738.cpp" />
+    <ClCompile Include="23_03_07 BaekJoon2501.cpp" />
+    <ClCompile Include="23_03_07 BaekJoon5086.cpp" />
+    <ClCompile Include="23_03_07 BaekJoon9506.cpp" />
+    <ClCompile Include="23_03_13 BaekJoon27866.cpp" />
     <ClCompile Include="OCA.cpp" />
     <ClCompile Include="OCF.cpp" />
     <ClCompile Include="OCG.cpp" />

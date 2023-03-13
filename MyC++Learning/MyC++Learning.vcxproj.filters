@@ -64,6 +64,9 @@
     <Filter Include="소스 파일\StepProgramming\2D Array">
       <UniqueIdentifier>{b29b86d5-1065-45a5-957d-10aa3176ec86}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\StepProgramming\AboutNumber">
+      <UniqueIdentifier>{fea8c5ce-ef5b-4bf7-8604-58c18c9b3af5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12_15 BaekJoon4344.cpp">
@@ -167,9 +170,6 @@
     </ClCompile>
     <ClCompile Include="22_SafeZone.cpp">
       <Filter>소스 파일\Programous</Filter>
-    </ClCompile>
-    <ClCompile Include="01_09 BaekJoon1978.cpp">
-      <Filter>소스 파일\StepProgramming\BaseMath2</Filter>
     </ClCompile>
     <ClCompile Include="01_09 BaekJoon2581.cpp">
       <Filter>소스 파일\StepProgramming\BaseMath2</Filter>
@@ -344,6 +344,24 @@
     </ClCompile>
     <ClCompile Include="23_03_07 BaekJoon2563.cpp">
       <Filter>소스 파일\StepProgramming\2D Array</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_07 BaekJoon2501.cpp">
+      <Filter>소스 파일\StepProgramming\AboutNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_07 BaekJoon5086.cpp">
+      <Filter>소스 파일\StepProgramming\AboutNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="23_01_09 BaekJoon1978.cpp">
+      <Filter>소스 파일\StepProgramming\AboutNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_07 BaekJoon9506.cpp">
+      <Filter>소스 파일\StepProgramming\AboutNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_07 BaekJoon2581.cpp">
+      <Filter>소스 파일\StepProgramming\AboutNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_13 BaekJoon27866.cpp">
+      <Filter>소스 파일\StepProgramming\String</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
