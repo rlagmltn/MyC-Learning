@@ -70,6 +70,9 @@
     <Filter Include="소스 파일\StepProgramming\TimeComplexity">
       <UniqueIdentifier>{160a855b-5fd1-4cd8-bff4-e635409a291b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\StepProgramming\Sort">
+      <UniqueIdentifier>{3c748628-eb31-4428-8b1f-4cf0cef849da}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12_15 BaekJoon4344.cpp">
@@ -389,6 +392,27 @@
     </ClCompile>
     <ClCompile Include="23_03_14 BaekJoon24267.cpp">
       <Filter>소스 파일\StepProgramming\TimeComplexity</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon24313.cpp">
+      <Filter>소스 파일\StepProgramming\TimeComplexity</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon2587.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon2750.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon2751.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon10989.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon25305.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon2108.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
