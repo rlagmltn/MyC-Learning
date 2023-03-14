@@ -1,46 +1,32 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-vector<int> v;
-
-bool IsPrime(int num)
-{
-	for (int i = 2; i <= num / 2; i++) 
-		if (num % 2 == 0) return false;
-	return true;
-}
-void SetPrime(int min, int max)
-{
-	for (int i = min + 1; i <= max; i++)
-		if (IsPrime(i)) v.push_back(i);
-}
-void PrintSum(int num)
-{
-	int ans[2] = { 0, 10001 };
-	for (int i : v)
-	{
-		if (i >= num) break;
-		for (int j : v)
-		{
-			if (i + j > num) break;
-			if (abs(ans[0] - ans[1]) > abs(i - j) && i + j == num)
-			{
-				ans[0] = i, ans[1] = j;
-			}
-		}
-	}
-	cout << ans[0] << " " << ans[1] << "\n";
-}
-int main()
-{
-	int n, min = 2;
-	cin >> n;
-	for (int i = 0; i < n; i++)
-	{
-		int t;
-		cin >> t;
-		SetPrime(min, t);
-		PrintSum(t);
-		min = t;
-	}
-}
+//#include <iostream>
+//using namespace std;
+//#define size 10001
+//
+//int main()
+//{
+//	int m, n;
+//	int a[size] = { 0, };
+//
+//	a[0] = 1, a[1] = 1;
+//	for (int i = 2; i < size; i++)
+//	{
+//		if (a[i] != 1)
+//		{
+//			for (int j = 2; i * j <= size; j++)
+//				a[i * j] = 1;
+//		}
+//	}
+//	cin >> m;
+//	for (int i = 0; i < m; i++)
+//	{
+//		cin >> n;
+//		for (int j = n / 2; j > 0; j--)
+//		{
+//			if (a[j] != 1 && a[n - j] != 1)
+//			{
+//				cout << j << " " << n - j << "\n";
+//				break;
+//			}
+//		}
+//	}
+//}
