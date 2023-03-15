@@ -243,6 +243,7 @@
     <ClCompile Include="23_03_15 BaekJoon11651.cpp" />
     <ClCompile Include="23_03_15 BaekJoon1181.cpp" />
     <ClCompile Include="23_03_15 BaekJoon1427.cpp" />
+    <ClCompile Include="23_03_15 BaekJoon18870.cpp" />
     <ClCompile Include="23_03_15 BaekJoon2108.cpp" />
     <ClCompile Include="23_03_15 BaekJoon24313.cpp" />
     <ClCompile Include="23_03_15 BaekJoon25305.cpp" />

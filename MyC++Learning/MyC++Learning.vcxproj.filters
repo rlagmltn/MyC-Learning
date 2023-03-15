@@ -429,5 +429,8 @@
     <ClCompile Include="23_03_15 BaekJoon10814.cpp">
       <Filter>소스 파일\StepProgramming\Sort</Filter>
     </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon18870.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
