@@ -414,5 +414,20 @@
     <ClCompile Include="23_03_15 BaekJoon2108.cpp">
       <Filter>소스 파일\StepProgramming\Sort</Filter>
     </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon1427.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon11650.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon11651.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon1181.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="23_03_15 BaekJoon10814.cpp">
+      <Filter>소스 파일\StepProgramming\Sort</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
